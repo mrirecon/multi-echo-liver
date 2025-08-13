@@ -1,3 +1,8 @@
+**The main repository has moved to: https://gitlab.tugraz.at/ibi/mrirecon/papers/multi-echo-model-based-liver-mri**
+
+**Please check there for updates.**
+
+
 # Summary
 
 These scripts reproduce the experiments described in the article:
